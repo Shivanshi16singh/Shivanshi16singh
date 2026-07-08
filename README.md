@@ -39,19 +39,19 @@
 ### 📊 GitHub Trophies & Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shivanshi16singh" alt="shivanshi16singh trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shivanshi16singh&theme=radical" alt="shivanshi16singh trophies" />
 </p>
 
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivanshi16singh&show_icons=true&locale=en" alt="shivanshi16singh stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanshi16singh&show_icons=true&locale=en&layout=compact" alt="shivanshi16singh top langs" height="150" />
+  <!-- Swapped to the highly-stable Stats Extended API mirror -->
+  <img src="https://github-stats-extended.vercel.app/api?username=shivanshi16singh&show_icons=true&locale=en&theme=radical" alt="shivanshi16singh stats" height="150" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=shivanshi16singh&show_icons=true&locale=en&layout=compact&theme=radical" alt="shivanshi16singh top langs" height="150" />
 </p>
 
 <p align="center">
-  <!-- Switched streak tracker to a more stable server endpoint -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshi16singh" alt="shivanshi16singh streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshi16singh&theme=radical" alt="shivanshi16singh streak" />
 </p>
 
 ---
