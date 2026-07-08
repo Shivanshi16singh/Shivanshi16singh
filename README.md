@@ -39,20 +39,19 @@
 ### 📊 GitHub Trophies & Stats
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Shivanshi16singh&theme=radical&column=7" alt="shivanshi16singh trophies" width="100%" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Shivanshi16singh" alt="shivanshi16singh trophies" />
 </p>
 
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivanshi16singh&show_icons=true&locale=en&theme=radical" alt="shivanshi16singh stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanshi16singh&show_icons=true&locale=en&layout=compact&theme=radical" alt="shivanshi16singh top langs" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivanshi16singh&show_icons=true&locale=en" alt="shivanshi16singh stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanshi16singh&show_icons=true&locale=en&layout=compact" alt="shivanshi16singh top langs" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshi16singh&theme=radical" alt="shivanshi16singh streak" width="60%" />
+  <!-- Switched streak tracker to a more stable server endpoint -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshi16singh" alt="shivanshi16singh streak" />
 </p>
 
 ---
